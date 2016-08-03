@@ -7,8 +7,12 @@
 
 		Reference（翻译）.docx
 
-##任务表
---|--|--|
-时间|文档名称|翻译人|任务状态
-8/3/2016 1:09:07 PM |Introduction to Android.docx|moon-sky|进行中
+## 任务表 ##
+
+|时间|文档名称|翻译人|任务状态|
+|----|-----|------|------|
+|8/3/2016 1:09:07 PM |Introduction to Android.docx|moon-sky|进行中|
+
+
+
 
